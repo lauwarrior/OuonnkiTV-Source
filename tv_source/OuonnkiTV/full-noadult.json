@@ -7,13 +7,6 @@
     "isEnabled": true
   },
   {
-    "id": "dbzy-tv",
-    "name": "豆瓣资源",
-    "url": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "detailUrl": "https://dbzy.tv",
-    "isEnabled": true
-  },
-  {
     "id": "ikunzy-com",
     "name": "iKun资源",
     "url": "https://ikunzyapi.com/api.php/provide/vod",
